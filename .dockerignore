@@ -1,0 +1,5 @@
+.byebug_history
+test
+log/*.log
+Dockerfile
+
